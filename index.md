@@ -18,7 +18,9 @@ I have 9+ years experience with embedded systems and 12+ years with hardware/sof
 
 **ninjaDaemon**: asynchronous worker daemon written in C++17.  
     Access: [ninjaDaemon](https://webercalixto.github.io/ninjaDaemon/)  
+      
 **shogunDaemon**: functionally equivalent to ninjaDaemon, but written in C99.  
     **To be released soon**  
+      
 **simpleLinuxLoadBalancer**: **(prototype)** set of scripts to setup and mantain a load balance scheme between an ethernet connection and a 3G/4G connection.  
     Access: [simpleLinuxLoadBalancer](https://github.com/webercalixto/simpleLinuxLoadBalancer)  
