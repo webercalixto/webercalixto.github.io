@@ -8,7 +8,7 @@ I have 9+ years experience with embedded systems and 12+ years with hardware/sof
 
 *Contact me via webersouzacalixto at gmail or skype webercalixto*  
 
-#### Currently my interests are related to:  
+#### Currently my interests are related (but not limited) to:  
 * Modern C++ (14/17) usage in embedded systems  
 * Embedded software development in general  
 * Time of Flight cameras  
