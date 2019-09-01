@@ -1,11 +1,12 @@
-## Welcome to my GitHub page!
-
+## Welcome to my GitHub page!  
+Access my [GitHub front page](https://github.com/webercalixto)  
+  
 ### About me:
 
 I'm an electronic engineer currently based in Brazil.  
 I have 9+ years experience with embedded systems and 12+ years with hardware/software development in general.  
 
-*Contact me via webersouzacalixto at gmail*  
+*Contact me via webersouzacalixto at gmail or skype webercalixto*  
 
 #### Currently my interests are related to:  
 * Modern C++ (14/17) usage in embedded systems  
