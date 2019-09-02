@@ -3,7 +3,7 @@ Access my [GitHub front page](https://github.com/webercalixto)
 
 #### My open source projects:  
   
-**ninjaDaemon**: asynchronous worker daemon written in C++17.  
+**ninjaDaemon**: asynchronous worker daemon written in C++17. Still under development, but fully functional already.  
     Access: [ninjaDaemon](https://webercalixto.github.io/ninjaDaemon/)  
       
 **shogunDaemon**: functionally equivalent to ninjaDaemon, but written in C99.  
