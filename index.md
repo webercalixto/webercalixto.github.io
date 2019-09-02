@@ -23,6 +23,7 @@ Most of my work career is related to cameras and imaging systems.
 #### Currently my interests are related (but not limited) to:  
 * Modern C++ (14/17) usage in embedded systems  
 * Time of Flight cameras and other depthsensensing technologies (FMCW radas, stereo imaging, etc)  
+* Photography in general (visit my [500px page](https://500px.com/webercalixto) )  
 * Embedded software development in general  
 * Image acquisition systems  
 * Camera datapath/pipeline  
