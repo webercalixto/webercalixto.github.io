@@ -1,5 +1,16 @@
 ## Welcome to my GitHub page!  
 Access my [GitHub front page](https://github.com/webercalixto)  
+
+#### My open source projects:  
+  
+**ninjaDaemon**: asynchronous worker daemon written in C++17.  
+    Access: [ninjaDaemon](https://webercalixto.github.io/ninjaDaemon/)  
+      
+**shogunDaemon**: functionally equivalent to ninjaDaemon, but written in C99.  
+    **To be released soon**  
+      
+**simpleLinuxLoadBalancer**: **(prototype)** set of scripts to setup and mantain a load balance scheme between an ethernet connection and a 3G/4G connection. I use it at home on a raspberry pi.  
+    Access: [simpleLinuxLoadBalancer](https://github.com/webercalixto/simpleLinuxLoadBalancer)  
   
 ### About me:
 
@@ -16,13 +27,3 @@ Most of my work career is related to cameras and imaging systems.
 * Image acquisition systems  
 * Camera datapath/pipeline  
 
-#### My open source projects:  
-
-**ninjaDaemon**: asynchronous worker daemon written in C++17.  
-    Access: [ninjaDaemon](https://webercalixto.github.io/ninjaDaemon/)  
-      
-**shogunDaemon**: functionally equivalent to ninjaDaemon, but written in C99.  
-    **To be released soon**  
-      
-**simpleLinuxLoadBalancer**: **(prototype)** set of scripts to setup and mantain a load balance scheme between an ethernet connection and a 3G/4G connection. I use it at home on a raspberry pi.  
-    Access: [simpleLinuxLoadBalancer](https://github.com/webercalixto/simpleLinuxLoadBalancer)  
