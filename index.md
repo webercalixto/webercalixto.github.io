@@ -11,11 +11,13 @@ Access my <a href="https://github.com/webercalixto" target="_blank">GitHub front
 &nbsp;&nbsp;&nbsp;Still under development, but fully functional already.  
 &nbsp;&nbsp;&nbsp;Access: <a href="https://webercalixto.github.io/ninjaDaemon/" target="_blank">ninjaDaemon repo</a>  
       
-**shogunDaemon**: functionally equivalent to ninjaDaemon, but written in C99.  
-    **To be released soon**  
+**shogunDaemon**:  
+&nbsp;&nbsp;&nbsp;functionally equivalent to ninjaDaemon, but written in C99.  
+&nbsp;&nbsp;&nbsp;**To be released soon**  
       
-**simpleLinuxLoadBalancer**: **(prototype)** set of scripts to setup and mantain a load balance scheme between an ethernet connection and a 3G/4G connection. I use it at home on a raspberry pi.  
-    Access: <a href="https://github.com/webercalixto/simpleLinuxLoadBalancer" target="_blank">simpleLinuxLoadBalancer repo</a>[]()  
+**simpleLinuxLoadBalancer**: **(prototype)**  
+&nbsp;&nbsp;&nbsp;set of scripts to setup and mantain a load balance scheme between an ethernet connection and a 3G/4G connection. I use it at home on a raspberry pi.  
+&nbsp;&nbsp;&nbsp;Access: <a href="https://github.com/webercalixto/simpleLinuxLoadBalancer" target="_blank">simpleLinuxLoadBalancer repo</a>[]()  
   
 ### About me:
 
