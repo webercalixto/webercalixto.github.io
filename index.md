@@ -5,6 +5,8 @@ Access my <a href="https://github.com/webercalixto" target="_blank">GitHub front
   
 **<a href="https://webercalixto.github.io/ninjaDaemon/" target="_blank">ninjaDaemon</a>**:  
 &nbsp;&nbsp;&nbsp;Asynchronous worker daemon written in C++17.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'Unlimited' number of workers and worker configs (via ini file)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ini file for initialization  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data type (quasi) abstraction within the limits of modern C++  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minimal compiler footprint: only 4 translation units. Maybe I'll change to header in the future  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Already shipped with <a href="https://pistache.io" target="_blank">pistache.io</a> and <a href="http://rapidjson.org/" target="_blank">rapidjson</a>. Examples will be available soon  
