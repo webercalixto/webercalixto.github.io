@@ -3,7 +3,7 @@ Access my <a href="https://github.com/webercalixto" target="_blank">GitHub front
 
 #### My open source projects:  
   
-**ninjaDaemon**:  
+**<a href="https://webercalixto.github.io/ninjaDaemon/" target="_blank">ninjaDaemon</a>**:  
 &nbsp;&nbsp;&nbsp;Asynchronous worker daemon written in C++17.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data type (quasi) abstraction within the limits of modern C++  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minimal compiler footprint: only 4 translation units. Maybe I'll change to header in the future  
@@ -15,9 +15,9 @@ Access my <a href="https://github.com/webercalixto" target="_blank">GitHub front
 &nbsp;&nbsp;&nbsp;functionally equivalent to ninjaDaemon, but written in C99.  
 &nbsp;&nbsp;&nbsp;**To be released soon**  
       
-**simpleLinuxLoadBalancer**: **(prototype)**  
+**<a href="https://github.com/webercalixto/simpleLinuxLoadBalancer" target="_blank">simpleLinuxLoadBalancer</a>**: **(prototype)**  
 &nbsp;&nbsp;&nbsp;set of scripts to setup and mantain a load balance scheme between an ethernet connection and a 3G/4G connection. I use it at home on a raspberry pi.  
-&nbsp;&nbsp;&nbsp;Access: <a href="https://github.com/webercalixto/simpleLinuxLoadBalancer" target="_blank">simpleLinuxLoadBalancer repo</a>[]()  
+&nbsp;&nbsp;&nbsp;Access: <a href="https://github.com/webercalixto/simpleLinuxLoadBalancer" target="_blank">simpleLinuxLoadBalancer repo</a>  
   
 ### About me:
 
