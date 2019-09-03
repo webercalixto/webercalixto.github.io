@@ -5,7 +5,7 @@ Access my <a href="https://github.com/webercalixto" target="_blank">GitHub front
   
 **ninjaDaemon**:  
 &nbsp;&nbsp;&nbsp;Asynchronous worker daemon written in C++17.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data type (quasi) abstraction within the limits of modern C++ (only compile time data type evaluation)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data type (quasi) abstraction within the limits of modern C++ (only compile-time data type evaluation)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minimal compiler footprint: only 4 translation units. Maybe I'll change to header only in the future  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Already shipped with <a href="https://pistache.io" target="_blank">pistache.io</a> and <a href="http://rapidjson.org/" target="_blank">rapidjson</a>. Examples will be available soon  
 &nbsp;&nbsp;&nbsp;Still under development, but fully functional already.  
@@ -28,7 +28,7 @@ Most of my work career is related to cameras and imaging systems.
 #### Currently my interests are related (but not limited) to:  
 * Embedded software development in general  
 * Modern C++ (14/17) usage in embedded systems  
-* Time of Flight cameras and other depthsensensing technologies (FMCW radas, stereo imaging, etc)  
+* Time of Flight cameras and other depthsensensing technologies (FMCW radars 24GHz/60GHz, stereo imaging, etc)  
 * DSLR photography in general (visit my <a href="https://500px.com/webercalixto" target="_blank">500px page</a> )  
 * Image acquisition systems  
 * Camera datapath/pipeline  
