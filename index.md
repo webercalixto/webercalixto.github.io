@@ -3,14 +3,14 @@ Access my <a href="https://github.com/webercalixto" target="_blank">GitHub front
 
 #### My open source projects:  
   
-**<a href="https://github.com/webercalixto/cameraBuildingBlocks" target="_blank">cameraBuildingBlocks</a>**: <span style="color:red">**(in active development)**</span>  
+**<a href="https://github.com/webercalixto/cameraBuildingBlocks" target="_blank">cameraBuildingBlocks</a>**: <span style="color:red">**(in active development)**</span>:  
 &nbsp;&nbsp;&nbsp;Will contain several processing blocks, necessary to build a functional IP camera.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NEON optimized whenever possible.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is build upon several other projects (ninjadaemon, opencv, rapidjson, pistache, etc)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My goal is to make easier for others to build their own IP camera devices.  
 &nbsp;&nbsp;&nbsp;Access the repo: <a href="https://github.com/webercalixto/cameraBuildingBlocks" target="_blank">cameraBuildingBlocks repo</a>    
   
-**<a href="https://webercalixto.github.io/ninjaDaemon/" target="_blank">ninjaDaemon</a>**:  
+**<a href="https://webercalixto.github.io/ninjaDaemon/" target="_blank">ninjaDaemon</a>** <span style="color:red">**(stable version 0.9)**</span>:  
 &nbsp;&nbsp;&nbsp;Asynchronous worker daemon written in C++17.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'Unlimited' number of workers and worker configs (via ini file)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ini file for initialization  
