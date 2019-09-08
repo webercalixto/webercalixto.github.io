@@ -17,6 +17,13 @@ Access my <a href="https://github.com/webercalixto" target="_blank">GitHub front
 &nbsp;&nbsp;&nbsp;functionally equivalent to ninjaDaemon, but written in C99.  
 &nbsp;&nbsp;&nbsp;**To be released soon**  
       
+**<a href="https://github.com/webercalixto/cameraBuildingBlocks" target="_blank">cameraBuildingBlocks</a>**: **(in active development)**  
+&nbsp;&nbsp;&nbsp;will contain several processing blocks, necessary to build a functional IP camera. NEON optimized whener possible.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is build upon several other projects (ninjadaemon, opencv, rapidjson, pistache, etc)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My goal is to make easier for others to build their own IP camera devices.  
+&nbsp;&nbsp;&nbsp;Access the repo: <a href="https://github.com/webercalixto/cameraBuildingBlocks" target="_blank">cameraBuildingBlocks repo</a> 
+  
+  
 **<a href="https://github.com/webercalixto/simpleLinuxLoadBalancer" target="_blank">simpleLinuxLoadBalancer</a>**: **(prototype)**  
 &nbsp;&nbsp;&nbsp;set of scripts to setup and mantain a load balance scheme between an ethernet connection and a 3G/4G connection. I use it at home on a raspberry pi.  
 &nbsp;&nbsp;&nbsp;Access: <a href="https://github.com/webercalixto/simpleLinuxLoadBalancer" target="_blank">simpleLinuxLoadBalancer repo</a>  
