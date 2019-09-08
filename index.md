@@ -10,7 +10,7 @@ Access my <a href="https://github.com/webercalixto" target="_blank">GitHub front
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My goal is to make easier for others to build their own IP camera devices.  
 &nbsp;&nbsp;&nbsp;Access the repo: <a href="https://github.com/webercalixto/cameraBuildingBlocks" target="_blank">cameraBuildingBlocks repo</a>    
   
-**<a href="https://webercalixto.github.io/ninjaDaemon/" target="_blank">ninjaDaemon</a>** <span style="color:red">**(stable version 0.9)**</span>:  
+**<a href="https://webercalixto.github.io/ninjaDaemon/" target="_blank">ninjaDaemon</a>** <span style="color:blue">**(stable version 0.9)**</span>:  
 &nbsp;&nbsp;&nbsp;Asynchronous worker daemon written in C++17.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'Unlimited' number of workers and worker configs (via ini file)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ini file for initialization  
